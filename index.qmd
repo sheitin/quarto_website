@@ -1,0 +1,16 @@
+---
+title: "Simon's Test Quarto Website Redux"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+library(tidyverse)
+mtcars %>%
+  ggplot(aes(x = disp, y = mpg)) +
+  geom_point()
+
+1 + 1
+```
