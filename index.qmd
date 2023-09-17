@@ -8,6 +8,7 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{r}
 library(tidyverse)
+library(rsconnect)
 mtcars %>%
   ggplot(aes(x = disp, y = mpg)) +
   geom_point()
