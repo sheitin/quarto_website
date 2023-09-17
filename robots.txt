@@ -1,1 +1,1 @@
-Sitemap: https://sheitin.github.io/quarto_website/sitemap.xml
+Sitemap: https://github.com/sheitin/quarto_website/sitemap.xml
