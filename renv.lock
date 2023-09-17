@@ -1162,7 +1162,7 @@
     },
     "sass": {
       "Package": "sass",
-      "Version": "0.4.1.0.0.0.1647886269",
+      "Version": "0.4.7",
       "Source": "Repository",
       "Repository": "RSPM",
       "Requirements": [
