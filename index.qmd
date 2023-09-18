@@ -10,7 +10,7 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 library(tidyverse)
 library(rsconnect)
 mtcars %>%
-  ggplot(aes(x = disp, y = mpg)) +
+  ggplot(aes(x = disp, y = mpg, color = cyl)) +
   geom_point()
 ```
 
